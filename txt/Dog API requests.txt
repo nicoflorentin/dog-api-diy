@@ -1,0 +1,8 @@
+LIST ALL BREEDS
+https://dog.ceo/api/breeds/list/all
+
+SINGLE RANDOM IMAGE FROM A SUB BREED COLLECTION
+https://dog.ceo/api/breed/hound/afghan/images/random
+
+SINGLE RANDOM IMAGE FROM A BREED COLLECTION
+https://dog.ceo/api/breed/hound/images
